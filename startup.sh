@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-gradle build
-gradle bootRun -p eureka-server &
-gradle bootRun -p notifications-service &
+./gradlew build
+./gradlew bootRun -p eureka-server &
+./gradlew bootRun -p notifications-service &
