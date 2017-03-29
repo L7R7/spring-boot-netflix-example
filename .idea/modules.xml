@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Netflix-Examples.iml" filepath="$PROJECT_DIR$/.idea/modules/Netflix-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Netflix-Examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Netflix-Examples_main.iml" group="Netflix-Examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Netflix-Examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Netflix-Examples_test.iml" group="Netflix-Examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notifications-service/notifications-service.iml" filepath="$PROJECT_DIR$/.idea/modules/notifications-service/notifications-service.iml" group="notifications-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notifications-service/notifications-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/notifications-service/notifications-service_main.iml" group="notifications-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notifications-service/notifications-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/notifications-service/notifications-service_test.iml" group="notifications-service" />
+    </modules>
+  </component>
+</project>
